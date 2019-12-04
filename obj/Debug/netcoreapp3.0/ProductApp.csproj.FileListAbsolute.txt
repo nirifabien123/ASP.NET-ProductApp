@@ -142,9 +142,6 @@ C:\Users\Positivo user\RiderProjects\ProductApp\ProductApp\bin\Debug\netcoreapp3
 C:\Users\Positivo user\RiderProjects\ProductApp\ProductApp\obj\Debug\netcoreapp3.0\ProductApp.TagHelpers.input.cache
 C:\Users\Positivo user\RiderProjects\ProductApp\ProductApp\obj\Debug\netcoreapp3.0\ProductApp.TagHelpers.output.cache
 C:\Users\Positivo user\RiderProjects\ProductApp\ProductApp\obj\Debug\netcoreapp3.0\ProductApp.RazorCoreGenerate.cache
-C:\Users\Positivo user\RiderProjects\ProductApp\ProductApp\obj\Debug\netcoreapp3.0\Razor\Pages\Error.cshtml.g.cs
-C:\Users\Positivo user\RiderProjects\ProductApp\ProductApp\obj\Debug\netcoreapp3.0\Razor\Pages\Index.cshtml.g.cs
-C:\Users\Positivo user\RiderProjects\ProductApp\ProductApp\obj\Debug\netcoreapp3.0\Razor\Pages\Privacy.cshtml.g.cs
 C:\Users\Positivo user\RiderProjects\ProductApp\ProductApp\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
 C:\Users\Positivo user\RiderProjects\ProductApp\ProductApp\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
 C:\Users\Positivo user\RiderProjects\ProductApp\ProductApp\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewImports.cshtml.g.cs

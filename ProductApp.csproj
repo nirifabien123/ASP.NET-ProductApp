@@ -19,4 +19,16 @@
       <Folder Include="Pages\Products" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Content Remove="Pages\Privacy.cshtml" />
+      <Content Remove="Pages\Index.cshtml" />
+      <Content Remove="Pages\Error.cshtml" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Remove="Pages\Privacy.cshtml.cs" />
+      <Compile Remove="Pages\Index.cshtml.cs" />
+      <Compile Remove="Pages\Error.cshtml.cs" />
+    </ItemGroup>
+
 </Project>
